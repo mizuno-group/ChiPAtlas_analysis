@@ -1,4 +1,4 @@
-# ChIP-Atlas概要
+# ChIP-Atlas概要 <dev>
 
 ChIP-Atlasは論文などで報告された ChIP-seq データを閲覧し利活用するためのウェブサービスである。
 以下にChIP-Atlasを使った転写因子まわりの解析をまとめる。
